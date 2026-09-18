@@ -1,0 +1,7 @@
+{
+  "name": "rice-trial-harvest",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
